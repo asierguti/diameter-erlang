@@ -1,8 +1,8 @@
-{application, diameter-erlang,
+{application, diam_erlang,
  [{description, "An OTP application"},
   {vsn, "0.1.0"},
   {registered, []},
-  {mod, {diameter-erlang_app, []}},
+  {mod, {diam_erlang_app, []}},
   {applications,
    [kernel,
     stdlib

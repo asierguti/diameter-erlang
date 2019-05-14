@@ -3,7 +3,7 @@
 %% @end
 %%%-------------------------------------------------------------------
 
--module(diameter-erlang_sup).
+-module(diam_erlang_sup).
 
 -behaviour(supervisor).
 
